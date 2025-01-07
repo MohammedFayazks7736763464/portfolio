@@ -1,0 +1,23 @@
+.main{
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px;
+    margin-left: 250px;
+    background-color:blanchedalmond;
+  border-radius: 50px;
+  height:500px;
+  box-shadow: 11px 12px 13px black;
+}
+.pics{
+    width: 300px;
+}
+.text{
+    font-weight: bold;
+}
+.rono{
+    height: 600px;
+}
+.cc{
+    font-size: 35px;
+}

@@ -1,0 +1,41 @@
+.box{
+    
+    margin-left: 250px;
+  background-color:blanchedalmond;
+  border-radius: 50px;
+  height:500px;
+  width: 1000px;
+  box-shadow: 8px 9px 10px black;
+  margin: 33px;
+  padding: 80px;
+  
+  
+
+}
+.html{
+    background-color:rgb(223, 203, 92);
+    width: 300px;
+    height: 140px;
+    border-radius: 50px;
+box-shadow: 9px 10px 11px black;
+}
+.html h5{
+    display: grid;
+    place-items: center;
+    color:black;
+    font-weight: bold;
+    
+    
+
+}
+.html .pixel{
+margin-left:107px;
+padding: 20px;
+}
+.ro2{
+    margin: 40px;
+}
+.html:hover{
+    scale: 1.1;
+    transition: 0.5s;
+}

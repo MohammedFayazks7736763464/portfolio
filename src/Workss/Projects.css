@@ -1,0 +1,33 @@
+.card{
+   
+   width: 100%;
+    display: flex;
+    justify-content: start;
+  
+    
+}
+.clone{
+    background-color:blanchedalmond;
+    display: flex;
+    justify-content: space-evenly;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    
+    
+
+}
+.calc{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    background-color:blanchedalmond;
+    
+}
+.parallax{
+    background-color:blanchedalmond;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-bottom: 30px;
+    
+    
+}

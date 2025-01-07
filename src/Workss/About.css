@@ -1,0 +1,34 @@
+.about {
+   
+   padding: 20px;
+   margin: 0px;
+   display: grid;
+   place-items: center;
+
+
+}
+.image{
+   
+    
+   margin-top: 10px;
+   
+}
+.about p{
+    
+    font-size: 20px;
+}
+.front{
+   
+    margin-left: 400px;
+    background-color:blanchedalmond;
+    border-radius: 50px;
+    height:500px;
+    width: 100%px;
+    box-shadow: 8px 9px 10px black;
+    margin: 33px;
+    padding: 80px;
+    display: grid;
+   
+    
+
+}
